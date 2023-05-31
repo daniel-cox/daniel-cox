@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/shreddshark" target="blank"><img src="https://img.shields.io/twitter/follow/shreddshark?logo=twitter&style=for-the-badge" alt="shreddshark" /></a> </p>
 
-- 🔭 I’m currently studying at [Promineo Tech](https://github.com/daniel-cox/Week-02-Conditions_and_Loops)
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreddshark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreddshark" height="30" width="40" /></a>
