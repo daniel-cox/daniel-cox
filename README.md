@@ -1,7 +1,7 @@
 ### <div align="center">I'm Daniel, a front-end developer 👨‍💻 working for CoreCommerce 🚀</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Vue.js  
   
 
 - ❓ Ask me about anything related to Web Design  
